@@ -2,7 +2,7 @@ nodejs-hw-01
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
-node index.js --action="list" -https://monosnap.com/file/PUvqTnzi5kgn8TJcoVaSerhaUApjwJ
+node index.js --action="list" - https://monosnap.com/file/Va7Fp6l35J7lrwGQu0vfmjIH2EcbAI
 
 # Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
 
